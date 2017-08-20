@@ -1,0 +1,8 @@
+aandd_reward_teacher	評分老師
+tea_id	tea_name	tea_score
+aandd_reward_student	學生
+stu_id	stu_name	stu_class	stu_sex
+aandd_reward_item		評分項目
+rew_id	rew_name	rew_score	
+aandd_reward_log		評分紀錄
+log_id	tea_id	stu_id	rew_name	rew_score	date	
